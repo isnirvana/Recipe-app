@@ -33,7 +33,7 @@ Create a visually appealing and responsive recipe page with HTML, CSS, and JavaS
 ### Links
 
 - **Solution URL:** [View my solution here](https://github.com/isnirvana/Recipe-app)
-- **Live Site URL:** [See the live site here]([https://your-live-site-url.com](https://recipe-app-frontendmentor.netlify.app/))
+- **Live Site URL:** [See the live site here](https://recipe-app-frontendmentor.netlify.app/)
 
 ---
 

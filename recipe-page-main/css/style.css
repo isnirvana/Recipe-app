@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -7,7 +8,8 @@
 body {
   margin: 3.5rem;
   padding: 0;
-  /* font-size: 30px; */
+  font-size: 15px;
+  background-color: hsl(0, 0%, 100%);
 }
 
 img {
@@ -19,18 +21,20 @@ img {
 
 h2,
 h4 {
-  color: darkred;
-  font-family: "Times New Roman";
+  color: hsl(14, 45%, 36%);
+  font-family: Outfit;
+ 
 }
 
 h2,
 h1 {
   margin: 2rem 0;
-  font-family: "Times New Roman";
 }
 
 h1 {
   font-size: 40px;
+  font-family: Young Serif;
+  font-weight: 400;
 }
 
 h2 {
@@ -46,7 +50,7 @@ h2 {
 }
 
 .preparation-time h3 {
-  color: brown;
+  color: hsl(332, 51%, 32%);
 }
 
 ol,
@@ -64,7 +68,7 @@ ol li {
 }
 
 li::marker {
-  color: darkred;
+  color: hsl(14, 45%, 36%);
 }
 
 .nutrition-info {
@@ -74,7 +78,7 @@ li::marker {
 .nutrition-info span {
   padding-left: 50%;
   font-weight: bolder;
-  color: darkred;
+  color: hsl(14, 45%, 36%);
 }
 
 .second-info {
@@ -127,7 +131,6 @@ hr {
     padding-left: 20%;
   }
 
-  
   .second-info {
     margin-left: 7%;
   }
